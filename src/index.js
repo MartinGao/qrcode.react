@@ -92,7 +92,7 @@ const PROP_TYPES =
       }
     : {};
 
-const MARGIN_SIZE = 4;
+const MARGIN_SIZE = 1;
 
 // This is *very* rough estimate of max amount of QRCode allowed to be covered.
 // It is "wrong" in a lot of ways (area is a terrible way to estimate, it
